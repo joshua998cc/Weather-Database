@@ -1,2 +1,2 @@
 # Weather-Database
-Using the NOAA cloud based API. I created a program to extract data in a certain time frame and store on to my pc. Where I would create a CSV Excel file to analyze the requested data.
+Using the National Oceanic and Atmospheric Administration's (NOAA) cloud based API. I created a program to extract data in a certain time frame and store on to my pc. Where I would create a CSV Excel file to analyze the requested data. After reviewing and cleansing the data, I created a xlsx workbook file for the finished product after downloading the humidity and temperature. I used Python and the embedded SQL commands in python for data retrieval. 
